@@ -1,0 +1,29 @@
+.singleCard{
+    width:250px;
+}
+.rating{
+   background-color: aquamarine;
+}
+.cardDetails{
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+}
+.card{
+    width:200px;
+    border:1px solid#dedede;
+    padding:20px;
+    margin:20px;
+    box-shadow: 0 4px 7px 0 rgb(218 220 230);
+    display:inline-block;
+}
+.desc{
+    color:#686b78;
+    font-size:13px;
+    margin-top: 4px;
+}
+.heading{
+  font-size:17px;
+  font-weight:500;
+  word-break:break-word;   
+}
